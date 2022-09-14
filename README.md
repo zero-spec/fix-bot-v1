@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://i.postimg.cc/CxyJv60j/download.jpg" alt="WH-MODS-DEV" width="300" />
+<img src="https://i.postimg.cc/CxyJv60j/download.jpg" alt="NX-MODS-DEV" width="300" />
 
 </p>
-<h1 align="center">WH MODS DEV</h1>
+<h1 align="center">NX MODS DEV</h1>
 
 >
 >
@@ -11,10 +11,10 @@
 <p align="center">
   <a href="https://github.com/Wahidhidayatulla"><img title="GitHub" src="https://img.shields.io/badge/Github-ramlaidi.svg?style=for-the-badge&logo=github" /></a>
   <a href="httts://instagram.com/_ctzhid"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://www.youtube.com/c/SOLAROFC"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/𝟼𝟸𝟾2127487538">Klik disini untuk whatsapp OWNER </a>
+  <a href="https://wa.me/6289505329516">Klik disini untuk whatsapp OWNER </a>
 </h4>
 </p>
 
@@ -39,7 +39,7 @@
 | **Node.js**     | heroku/nodejs|
 
 # Creator Bot
-[![WH_MODS_DEV](https://github.com/Wahidhidayatulla.png?size=200)](https://github.com/Wahidhidayatulla) 
+[![NX_MODS_DEV](https://github.com/Wahidhidayatulla.png?size=200)](https://github.com/Wahidhidayatulla) 
 
-[WH_MODS_DEV](https://github.com/Wahidhidayatulla)
+[NX_MODS_DEV](https://github.com/Wahidhidayatulla)
 Creator
