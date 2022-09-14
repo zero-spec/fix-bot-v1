@@ -115,15 +115,15 @@ global.wm3 = '⫹⫺ ANTI-MODS-BOT-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By ANTI-MODS-DEV`
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.author = '                「 ANTI-MODS-BOT-V1  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://i.ibb.co/JqvXbZp/images-2022-09-14-T143411-051.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/JqvXbZp/images-2022-09-14-T143411-051.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
-global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumbs = ['https://i.ibb.co/JqvXbZp/images-2022-09-14-T143411-051.jpg']
+global.fla = 'https://i.ibb.co/JqvXbZp/images-2022-09-14-T143411-051.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
