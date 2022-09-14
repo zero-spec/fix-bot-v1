@@ -48,8 +48,8 @@ global.psaweria = 'https://saweria.com/NotWorkingbroo'
 /*============== NOMOR ==============*/
 global.nomorbot = '628988240348'
 global.nomorown = '628988240348','6289505329516'
-global.namebot = 'ANTI MODS'
-global.nameown = 'ANTI MOD DEV1'
+global.namebot = 'NX - MODS'
+global.nameown = 'NX - MODS DEV1'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,9 +58,9 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628988240348', 'ANTI MODS DEV1', true],
-  ['6289505329516', 'ANTI MODS DEV2', true],
-  ['6283177683343', 'ANTI MODS DEV3', true],
+  ['628988240348', 'NX - MODS DEV1', true],
+  ['6289505329516', 'CX -  MODS DEV2', true],
+  ['6283177683343', 'VX - MODS DEV3', true],
   ['79917357842', 'WH-MODS-BOT-V3', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ANTI-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ANTI-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ANTI-MODS-BOT-V1 '
+global.wm = '                「 NX-MODS-BOT-V1 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NX-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ NX-MODS-BOT-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ANTI-MODS-DEV`
-global.author = '                「 ANTI-MODS-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By NX-MODS-DEV`
+global.author = '                「 NX-MODS-BOT-V1  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ANTI-MODS-BOT-V1'
-global.stickauth = `By ©ANTI-MODS-DEV`
+global.stickpack = 'NX-MODS-BOT-V1'
+global.stickauth = `By ©NX-MODS-DEV`
 
 global.multiplier = 38 // The higher, The harder levelup
 
