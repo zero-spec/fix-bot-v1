@@ -43,11 +43,11 @@ global.pgopay = '089505329516' //gopay
 global.plinkaja = '-' //link aja
 global.ppulsa = '089505329516' //telkomsel
 global.ppulsa2 = '6283177683343' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.psaweria = 'https://saweria.com/NotWorkingbroo'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '628988240348'
-global.nomorown = '628988240348'
+global.nomorown = '628988240348','6289505329516'
 global.namebot = 'ANTI MODS'
 global.nameown = 'ANTI MOD DEV1'
 
