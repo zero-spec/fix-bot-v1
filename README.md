@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.postimg.cc/CxyJv60j/download.jpg" alt="NX-MODS-DEV" width="300" />
+<img src="https://i.ibb.co/XVzPx28/7c6445009c146bc262f35d6dc7c9ebb1.jpg" alt="NX-MODS-DEV" width="300" />
 
 </p>
 <h1 align="center">NX MODS DEV</h1>
@@ -39,7 +39,7 @@
 | **Node.js**     | heroku/nodejs|
 
 # Creator Bot
-[![NX_MODS_DEV](https://github.com/Wahidhidayatulla.png?size=200)](https://github.com/Wahidhidayatulla) 
+[![NX_MODS_DEV](https://github.com/zero-spec.png?size=200)](https://github.com/zero-spec) 
 
-[NX_MODS_DEV](https://github.com/Wahidhidayatulla)
+[NX_MODS_DEV](https://github.com/zero-spec)
 Creator
