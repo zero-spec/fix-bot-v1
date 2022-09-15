@@ -53,14 +53,17 @@ https://github.com/Rlxfly
 https://github.com/Aiinne
 *❉ Papah-Chan:*
 https://github.com/FahriAdison
+*❉ Zero-Spec/NxDevelopers:*
+https://github.com/zero-spec
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
-*❉ ImYanXiao:*
-https://github.com/ImYanXiao
+*❉ NxDevelopers:*
+https://github.com/zero-spec
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
-*❉ WH MODS DEV:*
+*❉ NX MODS DEV:*
 *❉ Kannachan:*
 *❉ Papah-Chan:*
 *❉ Johannes:*
+*❉ YudaDev:*
 *❉ Krisna:*
 *❉ Rlxfly:*
 
@@ -69,7 +72,7 @@ conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { extern
     mediaUrl: "https://Instagram.com/_ctzhid",
     mediaType: "VIDEO",
     description: "https://Instagram.com/_ctzhid", 
-    title: 'WH-MODS-DEV-MultiDevice',
+    title: 'NX-MODS-DEV-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
